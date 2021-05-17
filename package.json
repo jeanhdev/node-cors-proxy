@@ -1,0 +1,24 @@
+{
+  "name": "node-cors-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy w/ express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeadev/node-cors-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeadev/node-cors-proxy/issues"
+  },
+  "homepage": "https://github.com/jeadev/node-cors-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.17.1"
+  }
+}
